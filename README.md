@@ -1,16 +1,5 @@
-# stopwatch
+# Stopwatch
 
-A new Flutter project.
+# A new Flutter project(Stopwatch-App).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[stopwatch.webm](https://github.com/YoussefAbdAlNaser/WorledTime/assets/104595900/06530be6-e3eb-44f2-b1d9-451f089a9937)
